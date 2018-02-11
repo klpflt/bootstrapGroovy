@@ -1,7 +1,7 @@
-// Define an variable and print
+// Define an variable assing it a string,  print
 def myString = "Hello World"
 println myString
 
-// Change the value of the variable and print again!
+// Assign a diff string to the variable and print again!
 myString = "I like turtles"
 println myString
