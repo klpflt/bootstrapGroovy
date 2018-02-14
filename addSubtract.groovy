@@ -1,4 +1,4 @@
-// Concatenate two numbers
+// Concatenate two numbers; not really
 def concatenateNumbers(numberOne, numberTwo) {
   println numberOne + numberTwo
 }
