@@ -26,3 +26,13 @@ ages.remove("bach")
 println "Finally, call size on the ages map having deleted one element"
 
 println ages.size()
+
+println "For yucks, print out the map at the very end."
+
+println ages
+
+println "Assuming that you can run add to add a key and value"
+
+ages.put("today", 14)
+
+println ages
